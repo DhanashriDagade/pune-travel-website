@@ -3,8 +3,5 @@ Pune Travel Guide 🌟 Welcome to the Pune Travel Guide repository! This project
 
 # Demo video
 
-Uploading Punes beautiy - Personal - Microsoft_ Edge 2024-12-30 23-13-28.mp4…
-
-
-
+https://github.com/user-attachments/assets/da90af1f-389d-4ea5-88ae-f583eedf00c1
 
